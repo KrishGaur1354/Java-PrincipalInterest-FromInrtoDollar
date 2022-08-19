@@ -1,4 +1,5 @@
 # Java-PrincipalInterest-FromInrtoDollar
+![Java-PrincipalInterest-FromInrtoDollar](https://socialify.git.ci/KrishGaur1354/Java-PrincipalInterest-FromInrtoDollar/image?description=1&font=KoHo&language=1&name=1&owner=1&pattern=Circuit%20Board&theme=Dark)
 In this Project, I have Created a Simple Interest Calculator
 which will take Value of Priciple Amount, Interest Rate & Time to pay off the Simple Interest.
 After,Calculating the Interest it will verify whether the Value is
