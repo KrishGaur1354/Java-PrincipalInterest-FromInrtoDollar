@@ -12,4 +12,7 @@ on Java using IntelliG IDE and Java 18.0.2 JDK .
   <a href="https://twitter.com/ThatOneKrish">
     <img width="30px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" />
   </a>&ensp;
+   <a href="https://www.instagram.com/ThatOneKrish/">
+    <img width="30px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />
+  </a>&ensp;
 
